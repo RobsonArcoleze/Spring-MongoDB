@@ -25,3 +25,5 @@ The following features are preconfigured.
 
 ### Spring Boot versions
 - 3.0.0-RC1
+
+Projeto está em construção!
